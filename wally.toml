@@ -2,7 +2,6 @@
 name = "bruvblesdev/boundhitbox"
 description = "A light weight Spatial Query bound hitbox."
 version = "0.0.1"
-authors = ["bruvblesdev"]
 registry = "https://github.com/UpliftGames/wally-index"
 repository = "https://github.com/bruvblesdev/boundhitbox"
 realm = "shared"
