@@ -1,9 +1,9 @@
 [package]
-name = "bruvblesdev/boundhitbox"
+name = "bruvblesgitdev/boundhitbox"
 description = "A light weight Spatial Query bound hitbox."
 version = "0.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
-repository = "https://github.com/bruvblesdev/boundhitbox"
+repository = "https://github.com/bruvblesgitdev/boundhitbox"
 realm = "shared"
 license = "MIT"
 include = ["src", "src/*", "wally.toml", "wally.lock", "default.project.json"]
