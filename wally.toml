@@ -1,8 +1,8 @@
 [package]
-name = "bruvbles/boundhitbox"
+name = "bruvblesdev/boundhitbox"
 description = "A light weight Spatial Query bound hitbox."
 version = "0.0.1"
-author = ["bruvbles"]
+author = ["bruvblesdev"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 license = "MIT"
